@@ -1,0 +1,142 @@
+body {
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 800px;
+    margin: 0px auto;
+    background-image: url("bg.png");
+    background-repeat: repeat;
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 225px;
+    text-align: center;
+    padding: 100px 0px 0px 0px;
+    margin: 0px 0px 0px -20px;
+    line-height: 20px;
+    letter-spacing: -20px;
+
+}
+
+
+h2 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 65px 0px 0px 250px;
+}
+
+h3 { 
+    color: #B63514;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+
+p { 
+    color: white;
+    font-family: sans-serif;
+    display: block;
+    font-size: 15px;
+    text-align: left;
+    margin: 0px 60px 0px 310px;
+
+}
+
+#mainnav { 
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    float: right;
+    position: fixed;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    top: 0px;
+    right: 5px
+    
+}
+
+#mainnav ul {
+    padding: 0px;
+    margin: 0px
+   
+}
+
+a { 
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+#mainnav a:hover {
+    background-color: #b63514;
+}
+
+header {
+    background-color: #B63514;
+    padding: 5px 50px 50px 50px;
+    margin-bottom: 100px;
+    border-bottom-right-radius: 400px;
+    border-bottom-left-radius: 400px;
+    
+    }
+
+.Link {
+    font-size: 15px;
+    text-align: left;
+    margin: 20px 0px 0px 310px;
+}
+
+
+.Bilder {
+    margin: 0px 0px 100px 0px;
+}
+
+.Videos {
+    margin: 0px 0px 100px 0px;
+}
+
+#mainnav .thispage {
+    color: #B63514;
+
+}
+
+.Link a:hover {
+    background-color: lightgrey;
+}
+
+form {
+    display: block;
+    margin-left: 0px;
+    border: 0px;
+    margin-bottom: 100px;
+}
+
+fieldset {
+    border: none;
+}
+
+label {
+    color: white;
+    background-color: rgb(199, 196, 196);
+    text-align: left;
+    float: left;
+    display: block;
+    margin: 10px 400px 0px -10px;
+    border: 0px;
+
+}
+
+input {
+    border: white;
+    color: white;
+    background-color: rgb(199, 196, 196);
+    margin: 10px 0px 10px 0px
+    
+}
+ 
