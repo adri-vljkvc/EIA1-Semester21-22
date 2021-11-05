@@ -1,0 +1,27 @@
+body {
+    background-image: url("bg.png");
+    background-repeat: repeat;
+}
+
+#wrapper {
+    text-align: center;
+    position: relative;
+    left: 500px;
+    top: 100px;
+    width: 500px;
+}
+
+#wrapper iframe {
+    
+    position: relative;
+    left: 21px;
+    top: -350px;
+
+}
+
+.schleife {
+    position: relative;
+    top: -350px;
+    left: 870px;
+    z-index: 1;
+}

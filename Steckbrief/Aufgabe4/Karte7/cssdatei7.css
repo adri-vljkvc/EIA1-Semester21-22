@@ -1,0 +1,70 @@
+body {
+    background-image: url("bg.png");
+    background-repeat: repeat;
+}
+
+#wrapper {
+    text-align: center;
+    position: relative;
+    left: 500px;
+    top: 100px;
+    width: 400px;
+}
+
+#wrapper h1 {
+    color: white;
+    position: relative;
+    top: -275px;
+    left: 50px;
+    text-align: left;
+    z-index: 1;
+}
+
+#wrapper p {
+    color: white;
+    position: relative;
+    text-align: left;
+    top: -250px;
+    left: 50px;
+}
+
+#wrapper .busch {
+    position: relative;
+    top: -625px;
+    right: 150px;
+    
+}
+
+#wrapper .gifts {
+   position: relative;
+   left: 350px; 
+   top: -460px;
+   z-index: 1;
+}
+
+#wrapper video {
+    position: relative;
+    top: -865px;
+    left: 250px;
+
+}
+
+.stern1 {
+    position: relative;
+    top: -750px;
+    right: 200px;
+
+}
+
+.stern2 {
+    position: relative;
+    top: -825px;
+    right: 150px;
+    z-index: 1;
+}
+
+.stern3 {
+    position: relative;
+    top: -800px;
+    z-index: 1;
+}

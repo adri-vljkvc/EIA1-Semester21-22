@@ -1,0 +1,62 @@
+body {
+    background-image: url("bg.png");
+    background-repeat: repeat;
+}
+
+#wrapper {
+    text-align: center;
+    position: relative;
+    left: 500px;
+    top: 100px;
+    width: 500px;
+}
+
+#wrapper h1 {
+    color: white;
+    position: relative;
+    top: -350px;
+    left: 50px;
+    text-align: left;
+}
+
+#wrapper .stern1 {
+    position: relative;
+    top: -300px;
+    right: 70px;
+}
+
+#wrapper .stern2 {
+    position: relative;
+    top: -375px;
+    right: 30px;
+    
+}
+
+#wrapper .stern3 {
+    position: relative;
+    top: -250px;
+    
+}
+
+
+#wrapper .stern4 {
+    position: relative;
+    top: -320px;
+    left: 90px;
+}
+
+.stern1:hover {
+    background-image: url("stern_hover.png");   
+}
+
+.stern2:hover {
+    background-image: url("stern_hover.png");   
+}
+
+.stern3:hover {
+    background-image: url("stern_hover.png");   
+}
+
+.stern4:hover {
+    background-image: url("stern_hover.png");   
+}

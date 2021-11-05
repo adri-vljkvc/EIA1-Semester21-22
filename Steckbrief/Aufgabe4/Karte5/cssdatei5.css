@@ -1,0 +1,28 @@
+body {
+    background-image: url("bg.png");
+    background-repeat: repeat;
+}
+
+#wrapper {
+    text-align: center;
+    position: relative;
+    left: 500px;
+    top: 100px;
+    width: 500px;
+}
+
+#wrapper h1 {
+    position: relative;
+    top: -350px;
+    right: 150px;
+    color: white;
+}
+
+#wrapper form {
+    color: white;
+    text-align: left;
+    position: relative;
+    top: -350px;
+    left: 30px;
+}
+

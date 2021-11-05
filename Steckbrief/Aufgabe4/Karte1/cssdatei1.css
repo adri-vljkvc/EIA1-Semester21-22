@@ -1,0 +1,41 @@
+body {
+    background-image: url("bg.png");
+    background-repeat: repeat;
+}
+
+#wrapper {
+    text-align: center;
+    position: relative;
+    left: 500px;
+    top: 100px;
+    width: 400px;
+}
+
+#wrapper h1 {
+    color: white;
+    position: relative;
+    top: -350px;
+    left: 50px;
+    text-align: left;
+}
+
+#wrapper p {
+    color: white;
+    position: relative;
+    text-align: left;
+    top: -300px;
+    left: 50px;
+}
+
+#wrapper .busch {
+    position: relative;
+    top: -700px;
+    right: 100px;
+    
+}
+
+#wrapper .pinguin {
+   position: relative;
+   left: 200px; 
+   top: -400px;
+}
