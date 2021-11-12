@@ -4,11 +4,12 @@ body {
 }
 
 #wrapper {
+    margin: auto;
     text-align: center;
     position: relative;
-    left: 500px;
     top: 100px;
     width: 400px;
+    height: 400px;
 }
 
 #wrapper h1 {

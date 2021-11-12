@@ -4,9 +4,9 @@ body {
 }
 
 #wrapper {
+    margin:auto;
     text-align: center;
     position: relative;
-    left: 500px;
     top: 100px;
     width: 500px;
 }
@@ -19,9 +19,9 @@ body {
 
 }
 
-.schleife {
+#wrapper .schleife {
     position: relative;
-    top: -350px;
-    left: 870px;
+    top: -450px;
+    left: 230px;
     z-index: 1;
 }
