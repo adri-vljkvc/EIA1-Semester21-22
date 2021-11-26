@@ -1,0 +1,81 @@
+body{
+    background-color: #000;
+}
+
+.knoepfe{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#knopf {
+    height: 150px;
+    width: 150px;
+    border: 1px;
+    border-radius: 5px;
+    float: left;
+    margin: 2px;
+    border-style: solid;
+}
+
+#playbutton {
+    position: absolute;
+    top: 117%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.knopf1 {
+    background: linear-gradient(to bottom, #3D93F6, #1F63D1);
+    border-radius: 10px;
+    position: relative;
+}
+
+.knopf2 {
+    background: linear-gradient(to bottom, #3D93F6, #1F63D1);
+    border-radius: 10px;
+    position: relative;
+}
+
+.knopf3 {
+    background: linear-gradient(to bottom, #3D93F6, #1F63D1);
+    border-radius: 10px;
+    position: relative;
+}
+
+.knopf4 {
+    background-image: linear-gradient(to bottom, #FF5BB0, #F0037E);
+    border-radius: 10px;
+    position: relative;
+}
+
+.knopf5 {
+    background-image: linear-gradient(to bottom, #FF5BB0, #F0037E);
+    border-radius: 10px;
+    position: relative;
+}
+
+.knopf6 {
+    background-image: linear-gradient(to bottom, #FF5BB0, #F0037E);
+    border-radius: 10px;
+    position: relative;
+}
+
+.knopf7 {
+    background-image: linear-gradient(to bottom, #FF5BB0, #F0037E);
+    border-radius: 10px;
+    position: relative;
+}
+
+.knopf8 {
+    background-image: linear-gradient(to bottom, #F6A23D, #C66601);
+    border-radius: 10px;
+    position: relative;
+}
+
+.knopf9 {
+    background-image: linear-gradient(to bottom, #F6A23D, #C66601);
+    border-radius: 10px;
+    position: relative;
+}
