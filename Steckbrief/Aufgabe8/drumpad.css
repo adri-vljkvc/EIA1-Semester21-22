@@ -9,6 +9,7 @@ body{
     transform: translate(-50%, -50%);
 }
 
+
 #knopf {
     height: 150px;
     width: 150px;
@@ -19,6 +20,9 @@ body{
     border-style: solid;
 }
 
+#knopf:hover{
+    opacity: 50%;
+}
 
 .knopf1 {
     background: linear-gradient(to bottom, #3D93F6, #1F63D1);
@@ -80,6 +84,11 @@ body{
     left: 51%;
     transform: translate(-50%, -50%);
     font-size: 100px;
+    color: white;
+}
+
+#playbutton:hover{
+    opacity: 50%;
 }
 
 #deletebutton{
@@ -88,6 +97,11 @@ body{
     left: 85%;
     transform: translate(-50%, -50%);
     font-size: 100px;
+    color: white;
+}
+
+#deletebutton:hover{
+    opacity: 50%;
 }
 
 #remix{
@@ -96,6 +110,11 @@ body{
     left: 15%;
     transform: translate(-50%, -50%);
     font-size: 100px;
+    color: white;
+}
+
+#remix:hover{
+    opacity: 50%;
 }
 
 #record{
@@ -104,4 +123,9 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 100px;
+    color: red;
+}
+
+#record:hover{
+    opacity: 50%;
 }
